@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,900;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html , body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    background-color: #e2cfea;
+    
+    display: flex;
+}
+
+#part1 {
+    height: 100%;
+    width: 25%;
+    /* background-color: green; */
+}
+
+#part2 {
+    height: 100%;
+    width: 69%;
+    background-color: #6247aa;
+    background-image: url(rakshit-gondode-YTzP1F2EA5U-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#overlay {
+    height: 100%;
+    width: 100%;
+    background-color:#5e2c732c;
+}
+
+#part3 {
+    height: 100%;
+    width: 6%;
+    /* background-color: rgb(36, 22, 142); */
+}
+
+#text {
+    /* height: 300px; */
+    width: 400px;
+    position: absolute;
+    /* background-color: #887ed592; */
+    left: 8%;
+    top: 55%;
+    transform: translate(0,-50%);
+}
+
+#text > h1 {
+    height: 90px;
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    line-height: 74px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 7px;
+}
+
+#samll-image {
+    height: 560px;
+    width: 350px;
+    position: absolute;
+    top: 50%;;
+    right: 1%;
+    background-color: black;
+    transform: translate(0,-50%);
+    background-image: url(Ambazari\ Lake\ \ \(1\)_11zon.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#vertical-text {
+    position: absolute;
+    transform: rotate(90deg);
+    top: 5%;
+    right: -41.5%;
+    transform-origin: 0% 0%;
+    /* background-color: red; */
+}
+#vertical-text  h1 {
+    font-size: 75px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000;
+    color: transparent;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+#nav {
+    position: absolute;
+    /* height: 150px; */
+    width:450px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 45px;
+    left: 8%;
+    top: 5%;
+}
+
+#nav img {
+    height: 70px;
+}
+
+#nav h5 {
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+    color: white;
+}
