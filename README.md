@@ -1,5 +1,5 @@
 # Landing-page-Part-1
-Welcome to "Name's" GitHub Profile
+Welcome to "Palash Arun Nandanwar" GitHub Profile
 
 👋 Hello, I'm PalashNandanwar!
 
