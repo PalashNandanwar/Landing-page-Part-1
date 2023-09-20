@@ -16,7 +16,7 @@ Get Started:
 💬 Feel free to open issues or ask questions. I'm here to help!
 Join the Coding Adventure:
 
-Don't wait! Dive into the world of coding with me, [Your Name]. Whether you're here to learn, collaborate, or simply explore, there's a place for you in this community.
+Don't wait! Dive into the world of coding with me, Palash Arun Nandanwar. Whether you're here to learn, collaborate, or simply explore, there's a place for you in this community.
 
 Ready to begin? Let's code together!
 
